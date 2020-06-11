@@ -9,6 +9,6 @@ dependencies = [
 
 [[package]]
 name = "whoami"
-version = "0.5.3"
+version = "0.8.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7154f3f4488071a38189dfd63633df444e7be43b731cc12c41505308fc4972f3"
+checksum = "18bb55566f6f3f8440914233cf63df1eb60b801b5007d376cc46212cb8a9287c"
